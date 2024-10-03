@@ -1,0 +1,5 @@
+pyspark
+kafka-python
+pyarrow
+pandas
+apache-flink
